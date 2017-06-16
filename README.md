@@ -19,7 +19,6 @@ Able to perform the following tasks
 
 ## Release Versions
 
-**1.0: One motor only**  
-**1.1.0: One motor, speed control**  
-1.1.1: Debug code removed  
-1.1.2: Speed control modifications  
+0.1.0: One motor only  
+0.2.0: One motor, speed control  
+0.2.1: Speed control modifications  
